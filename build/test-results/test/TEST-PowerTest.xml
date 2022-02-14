@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PowerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-14T06:41:18" hostname="LAPTOP-8NRVGM47" time="0.032">
+  <properties/>
+  <testcase name="checkOneRaisedToOne()" classname="PowerTest" time="0.025"/>
+  <testcase name="checkTwoRaisedToOne()" classname="PowerTest" time="0.001"/>
+  <testcase name="checkTwoRaisedToTwo()" classname="PowerTest" time="0.002"/>
+  <testcase name="checkThreeRaisedToTwo()" classname="PowerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
